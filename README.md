@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/tu-usuario">
-    <img src="https://github.com/Calzada-ds/img-c/blob/main/S_SIDER_B.png" alt="Ilustración de un programador" width="400" align="right">
+    <img src="https://github.com/Calzada-ds/img-c/blob/main/S_SIDER.png" alt="Ilustración de un programador" width="200" align="right">
   </a>
   
   <h1>
