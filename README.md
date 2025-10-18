@@ -8,7 +8,7 @@
   </h1>
   
   <h3>
-   Lider de Proyectos Scrum | Desarrollador Full-Stack con Especialidad en Front-End | Diseñador UI/UX
+   Diseñador UI/UX | Desarrollador Full Stack Móvil y Web (Especialista en Front-End) 
   </h3>
 </div>
 
