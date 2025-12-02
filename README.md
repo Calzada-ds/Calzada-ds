@@ -50,9 +50,6 @@ desarrollando algoritmos en entornos productivos para la entrega de soluciones t
   <a href="https://nodejs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
   </a>
-  
-  <br><br>
-
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -76,9 +73,6 @@ desarrollando algoritmos en entornos productivos para la entrega de soluciones t
   <a href="https://dart.dev" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   </a>
-
-  <br><br>
-
   <a href="https://www.microsoft.com/sql-server" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql server" width="40" height="40"/> 
   </a>
@@ -86,9 +80,6 @@ desarrollando algoritmos en entornos productivos para la entrega de soluciones t
   <a href="https://www.tensorflow.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
-  
-  <br><br>
-
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   </a>
