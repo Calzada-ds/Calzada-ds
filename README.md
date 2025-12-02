@@ -4,7 +4,7 @@
   </a>
   
   <h1>
-    ¡Hola! Soy Daniel S Calzada 🎓
+    ¡Hola! Soy Daniel S Calzada 
   </h1>
   
   <h3>
