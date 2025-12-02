@@ -8,7 +8,7 @@
   </h1>
   
   <h3>
-   Diseñador UI/UX | Desarrollador Full Stack Móvil y Web (Especialista en Front-End) 
+   Diseñador UI/UX | Desarrollador Front End (Web, Movil & IA) 
   </h3>
 </div>
 
@@ -16,11 +16,13 @@
 
 ## Sobre Mí 🕴️
 
-Soy un Desarrollador Full-Stack con una marcada especialización en el **Front-End**. Mi enfoque principal es la arquitectura e implementación de **interfaces de usuario (UI)** intuitivas y de alto rendimiento, traduciendo diseños complejos de **UI/UX** creados en Figma en componentes de código funcionales y escalables.
-
-Cuento con amplia experiencia en la integración de servicios a través de **APIs RESTful**, gestionando el flujo de datos y asegurando una comunicación segura y eficiente entre el cliente y el servidor. Mi pasión es transformar conceptos de negocio en soluciones digitales de alto impacto.
-
-Adicionalmente, mi experiencia se extiende al desarrollo de aplicaciones móviles para **Android con Flutter**, lo que me permite construir y desplegar productos digitales cohesivos y de alto rendimiento que abarcan todo el ciclo de vida del desarrollo, desde la conceptualización hasta la entrega final.
+Egresado de la Licenciatura en Ciencias de la Informática con una sólida trayectoria en el liderazgo estratégico 
+de equipos multidisciplinarios y la ejecución colaborativa de proyectos informáticos, garantizando entregas 
+puntuales y de alto valor bajo la metodología Scrum.  
+Perfil Full-Stack especializado en arquitecturas Front-End, frameworks de última generación, 
+implementación de APIs y diseño UI/UX para experiencias fluidas. Mi versatilidad profesional abarca el 
+desarrollo móvil con Android/Flutter y la incorporación de Inteligencia Artificial, desplegando modelos y 
+desarrollando algoritmos en entornos productivos para la entrega de soluciones tecnológicas de alto impacto.
 
 
 ## Tecnologías y Herramientas 💻
