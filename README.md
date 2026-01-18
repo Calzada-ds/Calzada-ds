@@ -3,7 +3,7 @@
   </a>
   
   <h1>
-    ¡Hola! Soy Daniel S Calzada 
+    ¡Hola! Soy Daniel Sebastian Calzada Guerrero
   </h1>
   
   <h3>
