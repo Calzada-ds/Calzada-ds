@@ -7,7 +7,7 @@
   </h1>
   
   <h3>
-   Diseñador UI/UX | Desarrollador Front-End (Web, Móvil & IA) 
+   FULL-STACK DEVELOPER | AI SOLUTIONS & UI/UX 
   </h3>
 </div>
 
@@ -19,9 +19,9 @@ Egresado de la Licenciatura en Ciencias de la Informática con una sólida traye
 de equipos multidisciplinarios y la ejecución colaborativa de proyectos informáticos, garantizando entregas 
 puntuales y de alto valor bajo la metodología Scrum.  
 Perfil Full-Stack especializado en arquitecturas Front-End, frameworks de última generación, 
-implementación de APIs y diseño UI/UX para experiencias fluidas. Mi versatilidad profesional abarca el 
-desarrollo móvil con Android/Flutter y la incorporación de Inteligencia Artificial, desplegando modelos y 
-desarrollando algoritmos en entornos productivos para la entrega de soluciones tecnológicas de alto impacto.
+implementación de APIs y diseño UI/UX para experiencias fluidas. Desarrollo soluciones IA mediante RAG y Fine-tuning optimizando la respuesta de los LLMs con datos 
+específicos y la integración de modelos comerciales lideres (OpenAI, Anthropic, Gemini). Además, cuento con 
+versatilidad en el desarrollo móvil usando Flutter, adaptándome a entornos dinámicos y de alta complejida
 
 ## Tecnologías y Herramientas 💻
 
