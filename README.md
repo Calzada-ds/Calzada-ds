@@ -15,13 +15,14 @@
 
 ## Sobre Mí 🕴️
 
-Egresado de la Licenciatura en Ciencias de la Informática con una sólida trayectoria en el liderazgo estratégico 
-de equipos multidisciplinarios y la ejecución colaborativa de proyectos informáticos, garantizando entregas 
-puntuales y de alto valor bajo la metodología Scrum.  
-Perfil Full-Stack especializado en arquitecturas Front-End, frameworks de última generación, 
-implementación de APIs y diseño UI/UX para experiencias fluidas. Desarrollo soluciones IA mediante RAG y Fine-tuning optimizando la respuesta de los LLMs con datos 
-específicos y la integración de modelos comerciales lideres (OpenAI, Anthropic, Gemini). Además, cuento con 
-versatilidad en el desarrollo móvil usando Flutter, adaptándome a entornos dinámicos y de alta complejida
+Full Stack Developer con 3 años de experiencia desarrollando soluciones digitales. Especializado en colaborar con equipos 
+multidisciplinarios bajo metodologías ágiles para garantizar entregas puntuales y código de alta calidad. 
+Mi experiencia técnica abarca el ciclo completo del desarrollo (End-to-End), desde el análisis de experiencias de usuario 
+(UI/UX), diseño de interfaces modernas mediante frameworks Frontend y la construcción de arquitecturas Backend 
+robustas. Integración y consumo de APIs RESTful para flujos de datos seguros. 
+Desarrollo soluciones IA mediante RAG optimizando la respuesta de los LLMs con datos específicos y la integración de 
+modelos comerciales líderes (OpenAI, Anthropic, Gemini). Además, cuento con versatilidad en el desarrollo móvil usando 
+Flutter, adaptándome a entornos dinámicos y de alta complejidad.
 
 ## Tecnologías y Herramientas 💻
 
